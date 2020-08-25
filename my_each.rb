@@ -11,5 +11,3 @@ def my_each(collection)
  end
  collection
 end
-
-my_each(collection) {|x| puts x}
